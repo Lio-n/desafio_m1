@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Logan",
+    "rating": 9,
+    "tags": ["accion", "fantasia"]
+  },
+  {
+    "title": "The Hateful Eight",
+    "rating": 8,
+    "tags": ["western"]
+  },
+  {
+    "title": "A Quiet Place",
+    "rating": 7,
+    "tags": ["misterio", "thriller", "horror"]
+  },
+  {
+    "title": "Django Unchained",
+    "rating": 8.5,
+    "tags": ["accion", "western"]
+  },
+  {
+    "title": "Avengers:Endgame",
+    "rating": 9.5,
+    "tags": ["accixn", "sci fi"]
+  }
+]
